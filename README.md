@@ -1,3 +1,5 @@
+<div align="center"
+	
 # Projeto-Fintech Money Wise - FIAP
 
 <h1 align="center"><a href="#">Money Wise Projeto Fintech</a></h1>
@@ -28,25 +30,31 @@ Projeto hospedado no Github Pages:
 
 <h3 align="center">
   Tela de login
+
+ ![login](assets/images/Demonstração/Login-Money-Wise.gif)
 </h3>
 
-![login](assets/images/Demonstração/Login-Money-Wise.gif)
+
 
 ---
 
 <h3 align="center">
   Tela Dashboard
+
+ ![dashboard](assets/images/Demonstração/Desktop-Money-Wise.gif)
 </h3>
 
-![dashboard](assets/images/Demonstração/Desktop-Money-Wise.gif)
+
 
 ---
 
 <h3 align="center">
   Responsividade
+
+ ![responsividade](assets/images/Demonstração/Responsividade-Money-Wise.gif)
 </h3>
 
-![responsividade](assets/images/Demonstração/Responsividade-Money-Wise.gif)
+
 
 
 
@@ -55,7 +63,7 @@ Projeto hospedado no Github Pages:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Bootstrap](https://getbootstrap.com/)
+<a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a><a href=" " target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a><a href=" " target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a><a href="https://getbootstrap.com" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></a>
 
 <br>
 
@@ -72,9 +80,8 @@ O projeto será incrementado gradualmente, com a adição de novas telas e, post
 
 A tela de login é um placeholder, basta clicar em conectar para acessar o dashboard.
 
-Nem todas as páginas foram completamente implementadas. Conforme o projeto progredir, mais páginas estarão acessíveis. 
+Nem todas as páginas foram completamente implementadas. Conforme o projeto progredir, mais páginas estarão acessíveis. <br>
 
-<br>
 <br>
 <hr>
 ## 🚀 memo: Licença
@@ -84,3 +91,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito por Rodrigo F. Ribeiro   [ 🌐 LinkedIn.](www.linkedin.com/in/rodrigo-ribeiro-656882249)
+</div>
