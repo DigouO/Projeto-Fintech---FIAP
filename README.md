@@ -90,5 +90,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Rodrigo F. Ribeiro   [ 🌐 LinkedIn.](www.linkedin.com/in/rodrigo-ribeiro-656882249)
+Feito por Rodrigo F. Ribeiro   [ 🌐 LinkedIn.](www.linkedin.com/in/rodrigofribeiro95)
 </div>
